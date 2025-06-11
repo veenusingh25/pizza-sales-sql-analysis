@@ -1,7 +1,7 @@
 # pizza-sales-sql-analysis
 
 ## Dataset Source
-Created by WsCube Tech on GitHub.(https://github.com/Ayushi0214/pizza-s...)
+Created by WsCube Tech on GitHub.(https://github.com/Ayushi0214/pizza-SQL)
 
 ## Project Overview
 This SQL project analyzes a fictional pizza restaurant's sales data to uncover insights about customer preferences.
@@ -19,4 +19,6 @@ This data was used to write SQL Queries that help business decisions.
 4. Total quantity of pizzas based on date?
 5. Category-wise distribution of pizzas?
 6. Which pizza categories generate the most income or revenue?
+
+
    
